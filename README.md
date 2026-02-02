@@ -1,14 +1,17 @@
-# Excel-Interactive-Dashboard
+# Excel Interactive Dashboards
 
-A short Excel project showcasing an interactive dashboard built to explore and summarize data visually. The dashboard uses Excel features like charts, slicers, and structured data to make insights easy to understand at a glance.
+This folder contains two short Excel projects focused on building interactive dashboards for data analysis and visualization.
 
-## Project Overview
+## Projects Included
 
-* Interactive charts for quick data insights
-* Slicers/filters to explore different views of the data
-* Clean layout focused on clarity and usability
+* **Excel Interactive Dashboard** – A general interactive dashboard showcasing data insights using charts and slicers.
+* **Excel Interactive Sales Dashboard** – A sales-focused dashboard designed to explore sales performance through interactive visuals.
+
+## Tools Used
+
+* Microsoft Excel
+* Pivot tables, charts, and slicers
 
 ## Purpose
 
-Created as a small hands-on project to practice Excel data analysis, visualization, and dashboard design skills.
-
+Created as hands-on mini projects to practice Excel data analysis, visualization, and dashboard design skills.
